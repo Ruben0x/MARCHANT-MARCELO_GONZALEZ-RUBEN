@@ -1,4 +1,0 @@
-[2023-10-2622:32:09] [ ERROR] [OdontologoDaoH2:93] La base de datos puede que ya esté siendo utilizada: "C:/Users/Rubeneo/parcial.mv.db". Soluciones Posibles: cierre todas las otras conexiones; use el modo server
-Database may be already in use: "C:/Users/Rubeneo/parcial.mv.db". Possible solutions: close all other connection(s); use the server mode [90020-224]
-[2023-10-2622:32:09] [ ERROR] [OdontologoDaoH2:100] Ha ocurrido un error al intentar cerrar la bdd. Cannot invoke "java.sql.Connection.close()" because "connection" is null
-[2023-10-2622:32:22] [ INFO ] [OdontologoDaoH2:89] Listado de todos los odontologos: [Odontologo{id=1, numeroMatricula=123, nombre='Bruno', apellido='Diaz'}, Odontologo{id=2, numeroMatricula=111, nombre='Peter', apellido='Diaz'}, Odontologo{id=3, numeroMatricula=222, nombre='Bruce', apellido='Diaz'}]
